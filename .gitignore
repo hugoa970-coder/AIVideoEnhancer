@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Temporary run artifacts & tests output
+samples/test_run/
+*.tmp
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db

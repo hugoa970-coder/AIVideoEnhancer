@@ -1,0 +1,96 @@
+{
+  "patent_reference": "US 2026/0341309 A1 - Fig. 2",
+  "profile_applied": "CHILD_SAFE",
+  "total_duration_ms": 4000,
+  "modifications_count": 2,
+  "modifications": [
+    {
+      "original": "maldicion",
+      "replacement": "caracoles",
+      "start_ms": 1710,
+      "end_ms": 1995,
+      "justification": "Replaced 'maldicion' with 'caracoles' for compliance with CHILD_SAFE"
+    },
+    {
+      "original": "violencia",
+      "replacement": "accion",
+      "start_ms": 2280,
+      "end_ms": 2565,
+      "justification": "Replaced 'violencia' with 'accion' for compliance with CHILD_SAFE"
+    }
+  ],
+  "total_lip_sync_frames": 120,
+  "modified_lip_sync_frames": 16,
+  "viseme_samples": [
+    {
+      "frame": 52,
+      "time_ms": 1733.33,
+      "viseme": "VISEME_KG",
+      "jaw_open": 0.35,
+      "lip_width": 0.6
+    },
+    {
+      "frame": 53,
+      "time_ms": 1766.67,
+      "viseme": "VISEME_AH",
+      "jaw_open": 0.85,
+      "lip_width": 0.6
+    },
+    {
+      "frame": 54,
+      "time_ms": 1800.0,
+      "viseme": "VISEME_RR",
+      "jaw_open": 0.4,
+      "lip_width": 0.45
+    },
+    {
+      "frame": 55,
+      "time_ms": 1833.33,
+      "viseme": "VISEME_AH",
+      "jaw_open": 0.85,
+      "lip_width": 0.6
+    },
+    {
+      "frame": 56,
+      "time_ms": 1866.67,
+      "viseme": "VISEME_KG",
+      "jaw_open": 0.35,
+      "lip_width": 0.6
+    },
+    {
+      "frame": 57,
+      "time_ms": 1900.0,
+      "viseme": "VISEME_LL",
+      "jaw_open": 0.3,
+      "lip_width": 0.65
+    },
+    {
+      "frame": 58,
+      "time_ms": 1933.33,
+      "viseme": "VISEME_EE",
+      "jaw_open": 0.5,
+      "lip_width": 0.85
+    },
+    {
+      "frame": 59,
+      "time_ms": 1966.67,
+      "viseme": "VISEME_SS",
+      "jaw_open": 0.2,
+      "lip_width": 0.75
+    },
+    {
+      "frame": 69,
+      "time_ms": 2300.0,
+      "viseme": "VISEME_AH",
+      "jaw_open": 0.85,
+      "lip_width": 0.6
+    },
+    {
+      "frame": 70,
+      "time_ms": 2333.33,
+      "viseme": "VISEME_KG",
+      "jaw_open": 0.35,
+      "lip_width": 0.6
+    }
+  ]
+}

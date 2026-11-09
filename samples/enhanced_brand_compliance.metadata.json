@@ -1,0 +1,103 @@
+{
+  "patent_reference": "US 2026/0341309 A1 - Fig. 2",
+  "profile_applied": "BRAND_COMPLIANCE",
+  "total_duration_ms": 4000,
+  "modifications_count": 3,
+  "modifications": [
+    {
+      "original": "iphone",
+      "replacement": "telefono",
+      "start_ms": 1089,
+      "end_ms": 1452,
+      "justification": "Replaced 'iphone' with 'telefono' for compliance with BRAND_COMPLIANCE"
+    },
+    {
+      "original": "coca-cola",
+      "replacement": "refresco",
+      "start_ms": 2178,
+      "end_ms": 2541,
+      "justification": "Replaced 'coca-cola' with 'refresco' for compliance with BRAND_COMPLIANCE"
+    },
+    {
+      "original": "google",
+      "replacement": "buscador",
+      "start_ms": 3630,
+      "end_ms": 3993,
+      "justification": "Replaced 'google' with 'buscador' for compliance with BRAND_COMPLIANCE"
+    }
+  ],
+  "total_lip_sync_frames": 120,
+  "modified_lip_sync_frames": 33,
+  "viseme_samples": [
+    {
+      "frame": 33,
+      "time_ms": 1100.0,
+      "viseme": "VISEME_TD",
+      "jaw_open": 0.25,
+      "lip_width": 0.65
+    },
+    {
+      "frame": 34,
+      "time_ms": 1133.33,
+      "viseme": "VISEME_TD",
+      "jaw_open": 0.25,
+      "lip_width": 0.65
+    },
+    {
+      "frame": 35,
+      "time_ms": 1166.67,
+      "viseme": "VISEME_EE",
+      "jaw_open": 0.5,
+      "lip_width": 0.85
+    },
+    {
+      "frame": 36,
+      "time_ms": 1200.0,
+      "viseme": "VISEME_LL",
+      "jaw_open": 0.3,
+      "lip_width": 0.65
+    },
+    {
+      "frame": 37,
+      "time_ms": 1233.33,
+      "viseme": "VISEME_EE",
+      "jaw_open": 0.5,
+      "lip_width": 0.85
+    },
+    {
+      "frame": 38,
+      "time_ms": 1266.67,
+      "viseme": "VISEME_EE",
+      "jaw_open": 0.5,
+      "lip_width": 0.85
+    },
+    {
+      "frame": 39,
+      "time_ms": 1300.0,
+      "viseme": "VISEME_FV",
+      "jaw_open": 0.15,
+      "lip_width": 0.7
+    },
+    {
+      "frame": 40,
+      "time_ms": 1333.33,
+      "viseme": "VISEME_OH",
+      "jaw_open": 0.75,
+      "lip_width": 0.4
+    },
+    {
+      "frame": 41,
+      "time_ms": 1366.67,
+      "viseme": "VISEME_REST",
+      "jaw_open": 0.2,
+      "lip_width": 0.5
+    },
+    {
+      "frame": 42,
+      "time_ms": 1400.0,
+      "viseme": "VISEME_REST",
+      "jaw_open": 0.2,
+      "lip_width": 0.5
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "patent_reference": "US 2026/0341309 A1 - Fig. 2",
+  "profile_applied": "CHILD_SAFE",
+  "total_duration_ms": 4000,
+  "modifications_count": 2,
+  "modifications": [
+    {
+      "original": "maldicion",
+      "replacement": "caracoles",
+      "start_ms": 0,
+      "end_ms": 500,
+      "justification": "Replaced 'maldicion' with 'caracoles' for compliance with CHILD_SAFE"
+    },
+    {
+      "original": "violencia",
+      "replacement": "accion",
+      "start_ms": 1500,
+      "end_ms": 2000,
+      "justification": "Replaced 'violencia' with 'accion' for compliance with CHILD_SAFE"
+    }
+  ],
+  "total_lip_sync_frames": 120,
+  "modified_lip_sync_frames": 30,
+  "viseme_samples": [
+    {
+      "frame": 0,
+      "time_ms": 0.0,
+      "viseme": "VISEME_KG",
+      "jaw_open": 0.35,
+      "lip_width": 0.6
+    },
+    {
+      "frame": 1,
+      "time_ms": 33.33,
+      "viseme": "VISEME_KG",
+      "jaw_open": 0.35,
+      "lip_width": 0.6
+    },
+    {
+      "frame": 2,
+      "time_ms": 66.67,
+      "viseme": "VISEME_AH",
+      "jaw_open": 0.85,
+      "lip_width": 0.6
+    },
+    {
+      "frame": 3,
+      "time_ms": 100.0,
+      "viseme": "VISEME_AH",
+      "jaw_open": 0.85,
+      "lip_width": 0.6
+    },
+    {
+      "frame": 4,
+      "time_ms": 133.33,
+      "viseme": "VISEME_RR",
+      "jaw_open": 0.4,
+      "lip_width": 0.45
+    },
+    {
+      "frame": 5,
+      "time_ms": 166.67,
+      "viseme": "VISEME_AH",
+      "jaw_open": 0.85,
+      "lip_width": 0.6
+    },
+    {
+      "frame": 6,
+      "time_ms": 200.0,
+      "viseme": "VISEME_AH",
+      "jaw_open": 0.85,
+      "lip_width": 0.6
+    },
+    {
+      "frame": 7,
+      "time_ms": 233.33,
+      "viseme": "VISEME_KG",
+      "jaw_open": 0.35,
+      "lip_width": 0.6
+    },
+    {
+      "frame": 8,
+      "time_ms": 266.67,
+      "viseme": "VISEME_KG",
+      "jaw_open": 0.35,
+      "lip_width": 0.6
+    },
+    {
+      "frame": 9,
+      "time_ms": 300.0,
+      "viseme": "VISEME_OH",
+      "jaw_open": 0.75,
+      "lip_width": 0.4
+    }
+  ]
+}
